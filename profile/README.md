@@ -13,7 +13,7 @@ Email your resume and some code to [humancapital@cabret.ai](mailto:humancapital@
 
 
 ## Security 
-We take the security of our systems and customer data very seriously. You can find more information at our [security page](https://cabret.ai/careers). 
+We take the security of our systems and customer data very seriously. You can find more information at our [security page](https://cabret.ai/security). 
 
 If you think that you have found a vulnerability please reach out to [security@cabret.ai](mailto:security@cabret.ai).
 
